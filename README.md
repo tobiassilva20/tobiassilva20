@@ -1,9 +1,9 @@
-### Seja muito bem-vindo 👋
+# Seja muito bem-vindo 👋
 
 <!--
 **tobiassilva20/tobiassilva20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Sobre mim.
+### Sobre mim.
 - 😄 Graduado em Ciências da Computação desde dezembro de 2019.
 - 🔭 Atualmente trabalhando apenas em pequenos projetos pessoais e em busca de trabalho remoto e freelas.
 - 🌱 Atualmente aprendendo PHP e Laravel.
@@ -19,10 +19,10 @@
 - ⚡  Sinta-se à vontade para explorar este perfil, dar fork e baixar todos projetos disponíveis nele.
 
 
-### Welcome buddy 👋
+# Welcome buddy 👋
 
 
-# About me.
+### About me.
 - 😄 Graduate degree in Computer Science since dec/2019.
 - 🔭 I’m currently working on tiny personal projects and looking for remote and freelancer work.
 - 🌱 I’m currently learning PHP and Laravel.
