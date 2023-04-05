@@ -5,7 +5,6 @@
 -->
 ### Sobre mim.
 - 😄 Graduado em Ciências da Computação.
-- 🌱 Atualmente aprendendo PHP e Laravel.
 - 🔭 Minhas stacks:
      - No front: HTML5, CSS3 e Angular.
      - No back: Java, Spring, Spring boot. Rest API's.
@@ -21,5 +20,4 @@
 <div>
   <a href="https://github.com/tobiassilva20">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=tobiassilva20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiassilva20&layout=compact&langs_count=16&theme=dracula" />
 </div>
