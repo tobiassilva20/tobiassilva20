@@ -21,3 +21,10 @@
   <a href="https://github.com/tobiassilva20">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=tobiassilva20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
+
+     ## Contato
+  
+<div>
+  <a href ="tobiassilva@hotmail.it"><img height="35em" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tobiasazevedosilva/" target="_blank"><img height="35em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://docs.google.com/document/d/e/2PACX-1vQXe7pTLYrm9hgTDQsOWzKoR59wsPc5DC2BvPY4I_4e0nAcGH3-XC3coING0gbxTw/pub" target="_blank"><img height="35em" src="https://img.shields.io/badge/-Curriculo-%230077B5?style=for-the-badge&logo=curriculo&logoColor=white" target="_blank"></a>
